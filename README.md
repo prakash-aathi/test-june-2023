@@ -27,5 +27,6 @@ To build and run the project with GraalVM, follow these steps:
 3. Build the project: `mvn -Pnative spring-boot:build-image`
 4. Run the executable image `docker run --rm -p 8080:8080 grallvm-final:0.0.1-SNAPSHOT`
 
-
+## video 
+https://www.loom.com/share/0ebc5a97587745e49ae3b5444d24afda?sid=187669c9-14f2-49a7-b618-83e84f13ef3f
 
